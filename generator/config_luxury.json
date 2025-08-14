@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "stunning rich woman lounging on velvet armchair, gold silk dress, crystal earrings, holding wine glass, chandelier reflections, elite socialite vibe, vogue fashion shoot, ambient soft lighting",
-  "negative_prompt": "nudity, cleavage, poor lighting, cartoon, lowres, watermark, bad hands, awkward pose",
+  "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
+  "prompt": "penthouse living room with marble and gold accents, silk evening dress, champagne in hand, soft glam makeup, city lights bokeh, high-end fashion shoot",
   "output_dir": "../luxury",
   "category": "luxury"
 }

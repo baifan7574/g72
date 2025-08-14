@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "ultra-fit beautiful woman in compression crop top and yoga pants, glowing sweaty skin, gym wall with neon signs, energetic pose, strong core muscles, dynamic backlight, 8k sports editorial look",
-  "negative_prompt": "nudity, cropped limbs, cartoon, watermark, overexposure, blurry, out of frame, distorted body",
+  "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
+  "prompt": "modern gym, black leggings and tank top, defined abs, mid-squat pose, dynamic athletic energy, crisp focus, training portrait with hard top light",
   "output_dir": "../fitness",
   "category": "fitness"
 }

@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "gorgeous slim woman in sleek modern uniform dress, standing in white corridor, subtle power pose, glossy shoes, minimal background, clean lighting, executive beauty look, editorial fashion portrait",
-  "negative_prompt": "cartoon, blur, bad anatomy, unrealistic, watermark, nsfw, cropped face, distorted",
+  "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
+  "prompt": "formal uniform set with pressed white shirt and neat blazer, tidy hair, calm expression, corridor depth, clean minimalist background, professional portrait",
   "output_dir": "../uniform",
   "category": "uniform"
 }

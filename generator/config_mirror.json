@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "charming woman posing confidently in front of large ornate mirror, holding smartphone, elegant hairstyle, vintage bedroom setting, artistic reflection, warm ambient daylight, photorealistic portrait",
-  "negative_prompt": "face cropped, bad symmetry, lowres, cartoon, watermark, nude, messy room",
+  "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
+  "prompt": "tall full-length mirror in hotel room, chic black dress, subtle lip gloss, over-shoulder look, golden hour window light, refined mirror selfie aesthetic",
   "output_dir": "../mirror",
   "category": "mirror"
 }

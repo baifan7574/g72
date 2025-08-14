@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "alluring mysterious woman in crimson-lit room, velvet curtain backdrop, black satin lingerie, intense eye contact, moody shadows, subtle backlight, sensual editorial tone, magazine-grade clarity",
-  "negative_prompt": "nsfw, nude, overly dark, poorly drawn, cartoon, bad angle, cropped face, watermark",
+  "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
+  "prompt": "studio portrait under red gel lighting, deep crimson ambience, soft rim light, elegant satin dress, cinematic fashion editorial look",
   "output_dir": "../redroom",
   "category": "redroom"
 }
